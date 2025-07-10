@@ -1,4 +1,4 @@
-# Python-Projects
+# Projects
 
 
 ### 1. Comprehensive Credit Scoring System
